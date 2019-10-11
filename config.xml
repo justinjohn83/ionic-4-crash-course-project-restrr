@@ -85,5 +85,4 @@
     <plugin name="cordova-wheel-selector-plugin" spec="^1.1.2" />
     <plugin name="cordova-plugin-insomnia" spec="^4.3.0" />
     <plugin name="cordova-plugin-navigationbar" spec="^1.0.31" />
-    <engine name="android" spec="7.0.0" />
 </widget>
